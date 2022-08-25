@@ -25,6 +25,7 @@ An introduction to using resources with kubectl can be found in [the object mana
 - [Idempotency](#idempotency)
 - [Optional vs. Required](#optional-vs-required)
 - [Defaulting](#defaulting)
+[Controller-Assigned Defaults](   )
   - [Static Defaults](#static-defaults)
   - [Admission Controlled Defaults](#admission-controlled-defaults)
   - [Controller-Assigned Defaults (aka Late Initialization)](#controller-assigned-defaults-aka-late-initialization)
